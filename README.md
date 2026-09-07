@@ -7,3 +7,6 @@
 ## 언어 / Language
 - Korean :kr:
 - Python 🐍
+
+## 메일 / E-mail
+```nextira@daum.net```
